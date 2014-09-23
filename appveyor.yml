@@ -30,14 +30,10 @@ os: Windows Server 2012
 platform:
   -x64
 
-
-
-
- to add several configurations to build matrix:
 configuration:
   - Debug
   - Release
-
+  
 build:
   project: TestTravis\TestTravis.sln      # path to Visual Studio solution or project
   
