@@ -49,3 +49,16 @@ build:
   verbosity: normal
 
 
+#---------------------------------#
+#      artifacts configuration    #
+#---------------------------------#
+
+artifacts:
+  -path: *.*
+
+
+
+#---------------------------------#
+#     deployment configuration    #
+#---------------------------------#
+
