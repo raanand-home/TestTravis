@@ -46,4 +46,5 @@ build:
 #      artifacts configuration    #
 #---------------------------------#
 
-
+artifacts:
+  - path: **\*.exe
