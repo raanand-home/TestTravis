@@ -54,7 +54,9 @@ build:
 #---------------------------------#
 
 artifacts:
-  -path: *.*
+  
+  # pushing a single file
+  - path: test.zip
 
 
 
