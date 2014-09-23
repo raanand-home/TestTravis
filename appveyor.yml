@@ -56,7 +56,9 @@ build:
 artifacts:
   
   # pushing a single file
-  - path: test.zip
+  - path: **\.exe
+    name: Exes
+    type: zip
 
 
 
