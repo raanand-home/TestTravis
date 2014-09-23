@@ -32,14 +32,11 @@ platform:
 
 
 
-# build Configuration, i.e. Debug, Release, etc.
-configuration: 
-  -Release
-  -Debug
-# to add several configurations to build matrix:
-#configuration:
-#  - Debug
-#  - Release
+
+ to add several configurations to build matrix:
+configuration:
+  - Debug
+  - Release
 
 build:
   project: TestTravis\TestTravis.sln      # path to Visual Studio solution or project
