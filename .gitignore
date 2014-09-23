@@ -31,3 +31,5 @@
 *.sdf
 *.suo
 TestTravis/Debug/*
+TestTravis/x64/Debug/*
+TestTravis/x64/Release/*
