@@ -52,14 +52,4 @@ build:
 #      artifacts configuration    #
 #---------------------------------#
 
-artifacts:
-  
-  # pushing a single file
-  - path: **\*.exe
-    
-
-
-#---------------------------------#
-#     deployment configuration    #
-#---------------------------------#
 
