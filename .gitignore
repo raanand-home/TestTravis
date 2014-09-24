@@ -33,3 +33,5 @@
 TestTravis/Debug/*
 TestTravis/x64/Debug/*
 TestTravis/x64/Release/*
+WpfApplication1/bin/*
+WpfApplication1/obj/*
